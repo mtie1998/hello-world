@@ -1,2 +1,6 @@
 # hello-world
-Repository creation test
+
+Here's a brief synopsis of stuff
+
+- And here's a goal
+- And another!
